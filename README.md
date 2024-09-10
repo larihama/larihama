@@ -1,3 +1,5 @@
+[![larihama's GitHub stats](https://github-readme-stats.vercel.app/api?username=larihama)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m @larihama
 - 👀 I’m interested in anything electronic really, esports, edm, electronics
 - 🌱 I’m currently learning software engineering in college
