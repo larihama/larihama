@@ -1,4 +1,4 @@
-[![larihama's GitHub stats](https://github-readme-stats.vercel.app/api?username=larihama&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larihama&layout=compact&theme=tokyonight)
+[![larihama's GitHub stats](https://github-readme-stats.vercel.app/api?username=larihama&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larihama&theme=tokyonight)
 
 - 👋 Hi, I’m @larihama
 - 👀 I’m interested in anything electronic really, esports, edm, electronics
