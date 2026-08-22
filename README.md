@@ -1,4 +1,4 @@
-[![larihama's GitHub stats](https://github-stats-extended.vercel.app/api?username=larihama&show_icons=true&theme=transparent&hide_border=true&text_color=FFFFFF&title_color=1984FF&icon_color=FF00DC)](https://github.com/anuraghazra/github-stats-extended) [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=larihama&theme=transparent&hide_border=true&layout=compact&text_color=FFFFFF&title_color=1984FF&icon_color=FF00DC)](https://github.com/anuraghazra/github-stats-extended)
+[![larihama's GitHub stats](https://github-stats-extended.vercel.app/api?username=larihama&show_icons=true&theme=transparent&hide_border=true&text_color=FFFFFF&title_color=1984FF&icon_color=FF00DC)](https://github.com/stats-organization/github-stats-extended) [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=larihama&theme=transparent&hide_border=true&layout=compact&text_color=FFFFFF&title_color=1984FF&icon_color=FF00DC)](https://github.com/stats-organization/github-stats-extended)
 
 <!---
 - 👋 Hi, I’m @larihama
