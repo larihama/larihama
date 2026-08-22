@@ -1,8 +1,6 @@
-
+[![larihama's GitHub stats](https://github-stats-extended.vercel.app/api?username=larihama&show_icons=true&theme=transparent&hide_border=true&text_color=FFFFFF&title_color=1984FF&icon_color=FF00DC)](https://github.com/anuraghazra/github-stats-extended) [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=larihama&theme=transparent&hide_border=true&layout=compact&text_color=FFFFFF&title_color=1984FF&icon_color=FF00DC)](https://github.com/anuraghazra/github-stats-extended)
 
 <!---
-[![larihama's GitHub stats](https://github-readme-stats.vercel.app/api?username=larihama&show_icons=true&theme=transparent&hide_border=true&text_color=FF00DC&title_color=00FFFF&icon_color=FF00DC)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larihama&theme=transparent&hide_border=true&layout=compact&text_color=FF00DC&title_color=00FFFF&icon_color=FF00DC)](https://github.com/anuraghazra/github-readme-stats)
-
 - 👋 Hi, I’m @larihama
 - 👀 I’m interested in anything electronic really, esports, edm, electronics
 - 🌱 I’m currently learning software engineering in college
